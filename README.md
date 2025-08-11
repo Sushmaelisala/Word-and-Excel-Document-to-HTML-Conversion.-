@@ -42,7 +42,7 @@ Designed to preserve essential formatting, table structures, and embedded images
 1. Install Node.js (v14+ recommended).
 2. Extract the project and open a terminal in the project folder.
 3. Run `npm install` to install dependencies.
-4. Run `npm start`
+4. Run `npm start` or else npm run dev
 5. Open `http://localhost:3000` in your browser, upload a `.docx` or `.xlsx`, and download the converted HTML.
 
 ## Limitations & Notes
